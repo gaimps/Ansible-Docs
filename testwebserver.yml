@@ -1,0 +1,2 @@
+---
+- hosts: ansible2-test
